@@ -1,0 +1,7 @@
+Bill breakdown : 
+Croissant:  75 K 
+Ice cream:  45 K 
+Milkshake:  35 K 
+Donut:  65 K 
+Tip:  6 K
+Total:  226 K

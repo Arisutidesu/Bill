@@ -1,0 +1,10 @@
+Bill breakdown = 
+Burger:  20 K 
+Cola:  15 K 
+Kebab:  13 K 
+Sauce:  3 K 
+Pizza:  40 K 
+Mendoan:  5 K 
+Klepon:  2 K 
+Tip :  4.00 K
+Total :  102.00 K
